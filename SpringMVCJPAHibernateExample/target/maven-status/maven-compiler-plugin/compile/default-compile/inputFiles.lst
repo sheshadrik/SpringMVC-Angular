@@ -1,0 +1,17 @@
+C:\Angular_JS\SpringMVCJPAHibernateExample\src\main\java\com\websystique\springmvc\converter\RoleToUserProfileConverter.java
+C:\Angular_JS\SpringMVCJPAHibernateExample\src\main\java\com\websystique\springmvc\dao\UserProfileDaoImpl.java
+C:\Angular_JS\SpringMVCJPAHibernateExample\src\main\java\com\websystique\springmvc\model\User.java
+C:\Angular_JS\SpringMVCJPAHibernateExample\src\main\java\com\websystique\springmvc\model\UserProfile.java
+C:\Angular_JS\SpringMVCJPAHibernateExample\src\main\java\com\websystique\springmvc\service\UserProfileService.java
+C:\Angular_JS\SpringMVCJPAHibernateExample\src\main\java\com\websystique\springmvc\service\UserService.java
+C:\Angular_JS\SpringMVCJPAHibernateExample\src\main\java\com\websystique\springmvc\dao\UserDaoImpl.java
+C:\Angular_JS\SpringMVCJPAHibernateExample\src\main\java\com\websystique\springmvc\service\UserServiceImpl.java
+C:\Angular_JS\SpringMVCJPAHibernateExample\src\main\java\com\websystique\springmvc\service\UserProfileServiceImpl.java
+C:\Angular_JS\SpringMVCJPAHibernateExample\src\main\java\com\websystique\springmvc\configuration\JpaConfiguration.java
+C:\Angular_JS\SpringMVCJPAHibernateExample\src\main\java\com\websystique\springmvc\controller\AppController.java
+C:\Angular_JS\SpringMVCJPAHibernateExample\src\main\java\com\websystique\springmvc\dao\UserProfileDao.java
+C:\Angular_JS\SpringMVCJPAHibernateExample\src\main\java\com\websystique\springmvc\model\UserProfileType.java
+C:\Angular_JS\SpringMVCJPAHibernateExample\src\main\java\com\websystique\springmvc\dao\UserDao.java
+C:\Angular_JS\SpringMVCJPAHibernateExample\src\main\java\com\websystique\springmvc\configuration\AppConfig.java
+C:\Angular_JS\SpringMVCJPAHibernateExample\src\main\java\com\websystique\springmvc\configuration\AppInitializer.java
+C:\Angular_JS\SpringMVCJPAHibernateExample\src\main\java\com\websystique\springmvc\dao\AbstractDao.java
